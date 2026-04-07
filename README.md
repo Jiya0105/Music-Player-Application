@@ -42,18 +42,18 @@ Update UI with Controls
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure    
 📦 Music-Player-App
-┣ 📂 java/com/example/musicplayerapp
-┃ ┣ 📜 MainActivity.java
-┃ ┣ 📜 MusicAdapter.java
-┃ ┗ 📜 MusicModel.java
-┣ 📂 res/layout
-┃ ┣ 📜 activity_main.xml
-┃ ┗ 📜 music_item.xml
-┣ 📂 res/anim
-┃ ┗ 📜 button_click.xml
-┗ 📜 README.md
+ ┣ 📂 java/com/example/musicplayerapp
+ ┃ ┣ 📜 MainActivity.java
+ ┃ ┣ 📜 MusicAdapter.java
+ ┃ ┗ 📜 MusicModel.java
+ ┣ 📂 res/layout
+ ┃ ┣ 📜 activity_main.xml
+ ┃ ┗ 📜 music_item.xml
+ ┣ 📂 res/anim
+ ┃ ┗ 📜 button_click.xml
+ ┗ 📜 README.md
 
 
 ---
